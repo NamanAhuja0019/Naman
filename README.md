@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NamanAhuja0019
-- 👀 I’m interested in PYTHON , C / C++ 
+- 👋 Hi, I’m @Naman
+- 👀 I’m interested in PYTHON , C / C++ . 
 - 🌱 I’m currently learning APP DEVELOPMENT 
   
 
