@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Naman
 - 👀 I’m interested in PYTHON , C / C++ . 
-- 🌱 I’m currently learning APP DEVELOPMENT 
+  
   
 
 <!---
